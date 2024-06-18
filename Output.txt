@@ -1,0 +1,7 @@
+Enter your password: 
+9876543210
+Password is not strong enough
+
+Enter your password: 
+Praveen***123
+Encrypted password: vKuUsUNluogU1nyWpfSVVg==
